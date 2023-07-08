@@ -1,4 +1,4 @@
-# Chirp - a twitter like social network
+# Chirp - Microblogging Platform
 
 ## Project description
 
@@ -6,4 +6,4 @@ This project is a twitter like social network. It allows users to create posts, 
 
 Screenshots:
 
-![image](/demo.png)
+![image](https://github.com/khantseithu/Chirper/assets/100980146/c0d57331-9a48-488e-a353-a7d108163006)
